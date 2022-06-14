@@ -10,7 +10,6 @@ This is a battery powered device which displays various light effects. They are 
 
 One knob is used to change the effect, the other one allows to iterate over spectrum of colors (64 colors in total). Buttons are used to select different colors. Knob switches are wired, but not used at the moment.
 
-
 ## Parts list
 * Arduino Nano
 * Clear project box - https://smile.amazon.com/gp/product/B00HKIQUCC
@@ -26,3 +25,6 @@ One knob is used to change the effect, the other one allows to iterate over spec
 
 Of course all parts can be swapped to something that suits better.
 
+## PCB
+
+![PCB rendering](pcb/blinkybox.png)
