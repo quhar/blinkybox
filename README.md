@@ -8,6 +8,8 @@ This is a battery powered device which displays various light effects. They are 
 
 [![BlinkyBox demo](https://img.youtube.com/vi/yOZsOw5DJVM/0.jpg)](https://www.youtube.com/watch?v=yOZsOw5DJVM)
 
+One knob is used to change the effect, the other one allows to iterate over spectrum of colors (64 colors in total). Buttons are used to select different colors. Knob switches are wired, but not used at the moment.
+
 
 ## Parts list
 * Arduino Nano
